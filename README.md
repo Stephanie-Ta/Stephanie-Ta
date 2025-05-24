@@ -60,7 +60,7 @@ In my free time, I enjoy to bouldering, knitting, and reading.
   Co-created a data wrangling and tidying [Python package](https://pypi.org/project/wrangle-in-py/) with unit testing (**pytest**), continuous integration and development (**GitHub Actions**), and comprehensive [documentation](https://wrangle-in-py.readthedocs.io/).
 
 - [**Online Shopper Purchasing Intention Predictor**](https://github.com/UBC-MDS/Online-Shoppers-Purchasing-Intention-Prediction/) | _UBC MDS Group Class Project_ | Nov 2024 - Dec 2024  
-  Collaboratively built a logistic regression model using  **scikit-learn** to predict whether an online shopper will make a purchase based on their website interaction behavior. Developed a fully reproducible workflow with modular Python sccripts, an automated pipeline with **GNU Make**, a **Quarto** report, and a **Docker** container.
+  Collaboratively built a logistic regression model using  **scikit-learn** to predict whether an online shopper will make a purchase based on their website interaction behavior. Developed a fully reproducible workflow with modular Python scripts, an automated pipeline with **GNU Make**, a **Quarto** report, and a **Docker** container.
 
 - [**Patient Treatment Classifier**](https://github.com/Stephanie-Ta/patient_treatment_classification_project_online) | _Personal Project_ | Jan 2024  
   Tuned and evaluated a k-nearest neighbours model to classify in-patient vs. out-patient care based on various laboratory results and demographic data with **scikit-learn**. Presented findings in a [Jupyter Book](https://stephanie-ta.github.io/patient_treatment_classification_project_online/).
