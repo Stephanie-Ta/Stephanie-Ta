@@ -4,7 +4,7 @@ I’m a **Master’s of Data Science student** at the University of British Colu
 
 I’m proficient in Python, R, and SQL, and I’m always eager to learn new tools and techniques to tackle complex challenges.
 
-In my free time, I enjoy to bouldering, knitting, and reading.
+In my free time, I enjoy bouldering, knitting, and reading.
 
 ## 🛠️ Skills
 
