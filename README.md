@@ -67,7 +67,7 @@ In my free time, I enjoy bouldering, knitting, and reading.
 
 ## 📖 Education
 - **Master of Data Science** | University of British Columbia  
-   _Expected Graduation: June 2025_
+   _Graduation: June 2025_
 
 - **Bachelor of Science in Biology** | University of British Columbia  
    _Graduation: May 2024_
