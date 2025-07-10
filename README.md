@@ -45,7 +45,7 @@ In my free time, I enjoy bouldering, knitting, and reading.
 ## 🚀 Projects
 
 - **Forecasting Excess Mortality Due to Extreme Temperatures in BC, Canada** | _UBC MDS Capstone Project_ | Apr 2025 - Present  
-  Collaboratively developing a model to forecast excess mortality due to extreme temperatures across British Columbia's regional health authorities. Forecasts will be displayed on an interactive **R Shiny** dashboard that updates daily.
+  Collaboratively explored models to forecast excess mortality due to extreme temperatures across British Columbia's regional health authorities. Forecasts using the best model are displayed on an interactive **R Shiny** dashboard that updates daily.
 
 - **Pneumonia Classifier** | _UBC Medicine Datathon_ | Mar 2025  
   Fine-tuned a pretrained DenseNet169 model with **PyTorch** to classify chest X-rays into categories: pneumonia, atelectasis, and others.
