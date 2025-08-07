@@ -44,7 +44,10 @@ In my free time, I enjoy bouldering, knitting, and reading.
 
 ## 🚀 Projects
 
-- **Forecasting Excess Mortality Due to Extreme Temperatures in BC, Canada** | _UBC MDS Capstone Project_ | Apr 2025 - Present  
+- [**Diverse Data Hub**](https://github.com/diverse-data-hub) | Jul 2025 - Present  
+  Developed a [Python package](https://github.com/diverse-data-hub/diversedata-py) that provides real-world data sets centered on themes of equity, diversity and inclusion with example analyses available on the [Diverse Data Hub website](https://diverse-data-hub.github.io/). 
+
+- **Forecasting Excess Mortality Due to Extreme Temperatures in BC, Canada** | _UBC MDS Capstone Project_ | Apr 2025 - Jun 2025  
   Collaboratively explored models to forecast excess mortality due to extreme temperatures across British Columbia's regional health authorities. Forecasts using the best model are displayed on an interactive **R Shiny** dashboard that updates daily.
 
 - **Pneumonia Classifier** | _UBC Medicine Datathon_ | Mar 2025  
