@@ -1,6 +1,6 @@
 # <img src="https://github.com/Stephanie-Ta/Stephanie-Ta/blob/main/kirby_wave.gif" width="30"> Hello, I’m Stephanie Ta!
 
-I’m a recent graduate of the **Master’s of Data Science** program at the University of British Columbia with a passion for leveraging data to uncover insights and drive solutions, especially in healthcare and conservation. I’m excited to apply my data science skills to create a positive impact and sustainable change.
+I’m a recent graduate of the **Master of Data Science** program at the University of British Columbia with a passion for leveraging data to uncover insights and drive solutions, especially in healthcare and conservation. I’m excited to apply my data science skills to create a positive impact and sustainable change.
 
 I’m proficient in Python, R, and SQL, and I’m always eager to learn new tools and techniques to tackle complex challenges.
 
